@@ -1,0 +1,9 @@
+Variables : Son como cajas o espacios en los cuales se guardan datos que pueden cambiar y tienen un nombre que las identifica para poder utilizarlas dentro del programa.
+
+Strings : Son variables que contienen textos, que pueden formarse por letras, números, palabras o frases.
+
+Funciones : Son porciones de código que contienen procesos repetitivos dentro del programa. Pueden recibir o no un valor (argumento) y siempre retornan un resultado (puede ser un valor o si algo que se consulta es verdadero o falso). 
+
+Declaraciones if : Permiten evaluar si se cumple una condición o no, respecto a una o más variables generando caminos alternativos de acuerdo al resultado de la evaluación.
+
+Valores booleanos : Se llaman así al verdadero (true) o al falso (false). A las variables que tiene valore booleanos se las llama variables booleanas.
