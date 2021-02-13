@@ -1,0 +1,8 @@
+- for : Se utiliza para realizar tareas repetitivas dentro del código utilizando una variable que cuenta las veces que el mismo se repite.
+Debemos informarle el valor inicial de la variable, la condición para que se continúe repitiendo, y por último de que forma se modifica el valor de la variable (aumentando o disminuyendo el valor de la misma)
+
+- && : (AND) equivale a la expresión Y , es un tipo de operador, y se utiliza para evaluar dos condiciones en conjunto. Devuelve verdadero solo si ambas son verdaderas, en el resto de las situaciones devuelve falso.
+
+- || : (OR) equivale a la expresión O , es un tipo de operador, y se utiliza para evaluar dos condiciones y devuelve verdadero cuando por lo menos una es verdadera, de lo contrario devuelve falso.
+
+- ! : (NOT) equivale a la expresión NO, devuelve verdadero si la expresión no se cumple.
