@@ -1,0 +1,8 @@
+Definiciones:
+
+- Objetos: son elementos que se utilizan para representar cosas individuales con una o más características (o
+atributos) y que también pueden realizar ciertas funciones (llamados métodos)
+- Propiedades: son las características o valores (variables) que forman parte de un objeto.
+- Métodos: son las funciones realiza un objeto y forman parte de este.
+- Bucle for…in : se utiliza para recorrer individualmente las características de uno o más objetos
+- Notación de puntos vs notación de corchetes : la notación de puntos es más resumida y sencilla, pero no se pueden reemplazar los nombres de los atributos y funciones por variables, en este caso se deben utilizar los corchetes.
