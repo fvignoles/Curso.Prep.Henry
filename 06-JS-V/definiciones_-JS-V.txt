@@ -1,0 +1,2 @@
+- prototype : se utiliza para asignarle métodos a una clase.
+- Constructors (de Clases) : se utiliza para establecer los atributos y métodos de una clase, que serán utilizados por los objetos de la misma cuando sean creados.
