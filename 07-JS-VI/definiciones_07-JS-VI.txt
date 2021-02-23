@@ -1,0 +1,1 @@
+- Funciones Callback : son funciones que se envían como argumento a otra función, y que luego se llama desde la función externa para ejecutar un proceso.-
