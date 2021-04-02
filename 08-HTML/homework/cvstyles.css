@@ -1,0 +1,89 @@
+.container {
+    display: grid;
+    grid-template-columns: 80% 20%;
+    grid-template-rows: auto;
+    grid-gap: 10px;
+    grid-template-areas: 
+    "title photo"
+    "description description"
+    "education education"
+    "experience experience"
+    "skills skills"
+    "hobbies hobbies"; 
+}
+
+body {
+    background-color:silver;
+    margin: 5% 20% ;
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.photo {
+    grid-area: photo;
+    background-position: 50% 50%;
+}
+
+img {
+    width:100%;
+    border-radius: 5%;
+}
+
+.title {   
+    grid-area: title;
+    text-align: center;
+    background-image: url("FondoContableCeleste.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(19, 34, 46);
+    border-radius: 5%;
+}
+
+.description {
+    grid-area: description;
+    text-align: center;
+    background-color:rgb(20, 54, 82);
+    color: rgb(209, 209, 209);
+    padding: 2%;
+    font-size: large;
+    border-radius: 5%;
+}
+
+.education {
+    grid-area: education;
+    text-align: justify;
+    background-color:lightslategray;
+    padding: 2%;
+    border-radius: 5%;
+}
+
+.experience {
+    grid-area: experience;
+    text-align: justify;
+    background-color:lightsteelblue;
+    padding: 2%;
+    border-radius: 5%;
+}
+
+.skills {
+    grid-area: skills;
+    text-align: justify;
+    background-color:lightslategray;
+    padding: 2%;
+    border-radius: 5%;
+}
+
+
+.hobbies {
+    grid-area: hobbies;
+    text-align: justify;
+    background-color:lightsteelblue;
+    padding: 2%;
+    border-radius: 5%;
+}
+
+h3 {
+    text-decoration: solid;
+    color: midnightblue;
+}

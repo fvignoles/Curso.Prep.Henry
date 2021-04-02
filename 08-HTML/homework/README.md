@@ -58,7 +58,7 @@ IV. Suba su trabajo a su repositorio de github`
   * [Lea sobre el posicionamiento y use la regla de posición en sus estilos](https://es.learnlayout.com/index.html)
   * Lea sobre flexbox y use flexbox para centrar todos los elementos en la página
 
-## Ejercicio II
+#000# Ejercicio II
 
 ```
 Usando lo que aprendiste de HTML vas a crear un nuevo documento dentro de la carpeta de 'homework' llamado 'cv.html'. En el mismo vas crear tu propio Curriculum, deberá tener las siguientes secciones:
